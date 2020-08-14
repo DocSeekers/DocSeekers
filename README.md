@@ -18,7 +18,7 @@ Cryptography itself has been around for a while; whatâ€™s interesting is how itâ
 </p>
 
 
-# How to Access Biolink?
+# How to Access DocSeekers?
 
 * Visit http://docseekers.digital/
 
@@ -26,7 +26,7 @@ Cryptography itself has been around for a while; whatâ€™s interesting is how itâ
 
 # ScreenShots
 <img src="./images/Home-docseekers.png">
-<img src="./images/docseekers-2.png">
+<img src="./images/docssekers-2.png">
 <img src="./images/docseekers-3.png">
 
 
@@ -43,7 +43,9 @@ Cryptography itself has been around for a while; whatâ€™s interesting is how itâ
 * Step-4: wait for 24 hours we will contact you.
 
 
-
+# Social Links
+* Instagram:https://www.instagram.com/DocSeekers/
+* Linkedin: https://www.linkedin.com/company/docseekers/
 
 # ThankYou 
 <p align="center">
