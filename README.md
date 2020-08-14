@@ -49,7 +49,7 @@ Cryptography itself has been around for a while; whatâ€™s interesting is how itâ
 
 # ThankYou 
 <p align="center">
-<img src="./images/logo.png" width="400" height ="150">
+<img src="./images/logo.png" width="200" height ="200">
 </p>
 
 <h1 align="center">
